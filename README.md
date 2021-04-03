@@ -1,7 +1,6 @@
 # proje
 ## Ürün Takip Sisitemi
 ### Ekran Görüntüleri
-<div align="center"><img src="https://github.com/yunusemreayar/proje/blob/main/proje%20resimleri/15.PNG" alt="15" /></div>
 <table>
   <tr>
     <td>Uygulama Giriş Animasyonu</td>
